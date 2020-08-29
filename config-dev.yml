@@ -1,2 +1,2 @@
 config:
-  info: springcloud-config/config-dev.yml,version=5
+  info: springcloud-config/config-dev.yml,version=7
